@@ -1,0 +1,4578 @@
+[
+	{
+		"id" : "1" ,
+		"nome" : "Lúcio Craveiro Silva" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "253601111" ,
+		"email" : "" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "6" ,
+		"nome" : "Júlio Barreiros Martins" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "d6@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "10" ,
+		"nome" : "Hernâni Lopes Silva Maia" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604371" ,
+		"email" : "hmaia@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "11" ,
+		"nome" : "Licínio Chainho Pereira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604320" ,
+		"email" : "d11@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "12" ,
+		"nome" : "Sérgio Machado Santos" ,
+		"departamento" : "Presidência (Escola de Ciências da Saúde)" ,
+		"telefone" : "253601120" ,
+		"email" : "d12@ecsaude.uminho.pt" ,
+		"url" : "http.//www.uminho.pt/UnidadesCulturais/FCLBraga"
+	},
+	{
+		"id" : "16" ,
+		"nome" : "João Deus Rogado Salvador Pinheiro" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "253604400" ,
+		"email" : "d16@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "19" ,
+		"nome" : "Maria Isabel Pereira Lucas Calado Ferreira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604322" ,
+		"email" : "isabelcf@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "20" ,
+		"nome" : "Carlos António Alves Bernardo" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "+351 253510322" ,
+		"email" : "cbernardo@dep.uminho.pt" ,
+		"url" : "http://www.ipc.uminho.pt/index.php?option=com_contentbuilder&title=academic-staf"
+	},
+	{
+		"id" : "21" ,
+		"nome" : "João Arménio Lamego Lopes" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "604244" ,
+		"email" : "joaols@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "22" ,
+		"nome" : "Mário Duarte Araújo" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510291" ,
+		"email" : "mario.araujo@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "23" ,
+		"nome" : "Luís Manuel Meneses Guimarães Almeida" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510281" ,
+		"email" : "lalmeida@det.uminho.pt" ,
+		"url" : "http://www.det.uminho.pt"
+	},
+	{
+		"id" : "24" ,
+		"nome" : "João Fernando Alves Ferreira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604324" ,
+		"email" : "jferreira@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "25" ,
+		"nome" : "Ana Luísa Oliveira Marques Veloso" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "604237" ,
+		"email" : "alveloso@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "28" ,
+		"nome" : "José Manuel Esgalhado Valença" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604460" ,
+		"email" : "jmvalenca@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "33" ,
+		"nome" : "Maria Irene Magalhães Assunção Montenegro" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "602193" ,
+		"email" : "montenegro@quimica.uminho.pt" ,
+		"url" : "http://www.uminho.pt"
+	},
+	{
+		"id" : "34" ,
+		"nome" : "Edite Manuela Graça Pinto Fernandes" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604743" ,
+		"email" : "emgpf@dps.uminho.pt" ,
+		"url" : "http://www.norg.uminho.pt/emgpf/"
+	},
+	{
+		"id" : "35" ,
+		"nome" : "Vasco Luís Barbosa Freitas" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604465 / 919590916" ,
+		"email" : "vf@di.uminho.pt" ,
+		"url" : "http://marco.uminho.pt/~vf"
+	},
+	{
+		"id" : "37" ,
+		"nome" : "António José Marques Guimarães Rodrigues" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "602100" ,
+		"email" : "d37@reitoria.uminho.pt" ,
+		"url" : "http://www.uminho.pt"
+	},
+	{
+		"id" : "38" ,
+		"nome" : "José Manuel Martins Borges Almeida" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604323" ,
+		"email" : "bda@fisica.uminho.pt" ,
+		"url" : "http://www.arauto.uminho.pt/pessoas/bda"
+	},
+	{
+		"id" : "40" ,
+		"nome" : "Elias Blanco Fernandez" ,
+		"departamento" : "Departamento de Currículo e Tecnologia Educativa" ,
+		"telefone" : "605249" ,
+		"email" : "eblanco@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "41" ,
+		"nome" : "Carlos Alberto Caridade Monteiro Couto" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510197" ,
+		"email" : "ccouto@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "43" ,
+		"nome" : "Alberto José Gonçalves Carvalho Proença" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604464" ,
+		"email" : "aproenca@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "44" ,
+		"nome" : "Maria Fernanda Jesus Rego Paiva Proença" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604379" ,
+		"email" : "fproenca@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "45" ,
+		"nome" : "Ana Maria Ferreira Oliveira Campos" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604377" ,
+		"email" : "amcampos@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "46" ,
+		"nome" : "António Alberto Cabeço Silva" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510285" ,
+		"email" : "cabeco@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "52" ,
+		"nome" : "Maria Teresa Nascimento Costa Ferreira Ramalho" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604373" ,
+		"email" : "tramalho@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "53" ,
+		"nome" : "José Alberto Tavares Oliveira" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604752" ,
+		"email" : "to@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "54" ,
+		"nome" : "Heitor Manuel Santos Almeida" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510237" ,
+		"email" : "heitor@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "55" ,
+		"nome" : "Jaime Carlos Luzia Ferreira Silva" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510229" ,
+		"email" : "jaimefs@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "56" ,
+		"nome" : "Manuel Santos Pais" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510223" ,
+		"email" : "mspais@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "58" ,
+		"nome" : "Maria Arlete Morais Queirós" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604053" ,
+		"email" : "aqueiros@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "60" ,
+		"nome" : "Maria Manuela Costa Silva" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "605170" ,
+		"email" : "mmcsilva@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "62" ,
+		"nome" : "Maria José Chão Alves" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604376" ,
+		"email" : "mja@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "63" ,
+		"nome" : "António Augusto Sousa Miranda" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510225" ,
+		"email" : "asm@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "65" ,
+		"nome" : "João Manuel Formosinho Sanches Simões" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253601242" ,
+		"email" : "formosinho@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "68" ,
+		"nome" : "Acílio Silva Estanqueiro Rocha" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "602192" ,
+		"email" : "acilio@ilch.uminho.pt" ,
+		"url" : "Http://www.uminho.pt"
+	},
+	{
+		"id" : "69" ,
+		"nome" : "José Carlos Ferreira Maia Neves" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604466" ,
+		"email" : "jneves@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "70" ,
+		"nome" : "António Sérgio Duarte Pousada" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "253510324" ,
+		"email" : "asp@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "71" ,
+		"nome" : "José Viriato Eiras Capela" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "253601330" ,
+		"email" : "jcapela@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "72" ,
+		"nome" : "Estelita Graça Lopes Rodrigues Vaz" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "510428" ,
+		"email" : "evaz@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "73" ,
+		"nome" : "Graciete Tavares Dias" ,
+		"departamento" : "Vice-Reitor - GTD" ,
+		"telefone" : "604309" ,
+		"email" : "sec-gdias@reitoria.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "75" ,
+		"nome" : "Maria Margarida Santos Proença Almeida" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253601193" ,
+		"email" : "mproenca@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "77" ,
+		"nome" : "Maria Cecília Lemos Pinto Estrela Leão" ,
+		"departamento" : "Presidência (Escola de Ciências da Saúde)" ,
+		"telefone" : "604818" ,
+		"email" : "cleao@ecsaude.uminho.pt" ,
+		"url" : "http://www.ecsaude.uminho.pt"
+	},
+	{
+		"id" : "78" ,
+		"nome" : "Maria Elisabete Cunha Dias Real Oliveira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604325" ,
+		"email" : "beta@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "79" ,
+		"nome" : "Orlanda Marina Nobrega Correia" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604180" ,
+		"email" : "omcorreia@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "82" ,
+		"nome" : "Maria Joana Feijão Ehrhardt Soares" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604095" ,
+		"email" : "jsoares@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "83" ,
+		"nome" : "Maria Paula Beirão Oliveira Marques Smith" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253 604363" ,
+		"email" : "psmith@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "84" ,
+		"nome" : "Ana Isabel Paula Correia Filipe" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "510444" ,
+		"email" : "afilipe@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "85" ,
+		"nome" : "António Mendes Silva Ferraz" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 545" ,
+		"email" : "ferraz@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/ferraz"
+	},
+	{
+		"id" : "87" ,
+		"nome" : "Maria Luísa Garcia Alonso" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253601244" ,
+		"email" : "alonso@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "88" ,
+		"nome" : "José Nuno Fonseca Oliveira" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604462" ,
+		"email" : "jno@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jno"
+	},
+	{
+		"id" : "89" ,
+		"nome" : "Maria Teresa Silva Craveiro Martins Almeida" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604316" ,
+		"email" : "mtalmeida@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "90" ,
+		"nome" : "Olga Maria Fernandes Pereira Coutinho" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604041" ,
+		"email" : "olgapc@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "91" ,
+		"nome" : "Célia Sacramento Santos Pais" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604312" ,
+		"email" : "cpais@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "92" ,
+		"nome" : "Sílvio Carmo Silva" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "253604745" ,
+		"email" : "scarmo@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "93" ,
+		"nome" : "Maria Rosário Girão Ribeiro Santos" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "604194" ,
+		"email" : "rosario_santos@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "95" ,
+		"nome" : "José António Oliveira Rocha" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "253604526" ,
+		"email" : "jarocha@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap"
+	},
+	{
+		"id" : "96" ,
+		"nome" : "Aníbal Augusto Alves" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "604290" ,
+		"email" : "anibal@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "97" ,
+		"nome" : "Manuel Gonçalves Martins" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "253604520" ,
+		"email" : "mgmartins@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap/cp/mgmartins"
+	},
+	{
+		"id" : "98" ,
+		"nome" : "Christine Ulrike Godde" ,
+		"departamento" : "Departamento de Estudos Germanísticos" ,
+		"telefone" : "605186" ,
+		"email" : "cgodde@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "99" ,
+		"nome" : "Ana Gabriela Vilela Pereira Macedo" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604181" ,
+		"email" : "gabrielam@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/deina"
+	},
+	{
+		"id" : "101" ,
+		"nome" : "Ana Maria Campos Almeida Machado Ferreira Chaves" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604205" ,
+		"email" : "achaves@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "102" ,
+		"nome" : "Maria Filomena Pereira Rodrigues Louro" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604201" ,
+		"email" : "mflouro@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "104" ,
+		"nome" : "Francisco Coelho Soares Moura" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604467" ,
+		"email" : "fsm@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "106" ,
+		"nome" : "António Cândido Macedo Oliveira" ,
+		"departamento" : "Departamento de Ciências Jurídicas Públicas" ,
+		"telefone" : "253601858" ,
+		"email" : "acoliveira@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "108" ,
+		"nome" : "António Manuel Sousa Fernandes" ,
+		"departamento" : "Departamento de Ciências de Educação da Criança" ,
+		"telefone" : "601251" ,
+		"email" : "sfernandes@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "109" ,
+		"nome" : "Carlos Castro Silva Carvalho" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604179" ,
+		"email" : "ccarvalho@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "110" ,
+		"nome" : "Júlia Fátima Domingues Basto Oliveira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253601245" ,
+		"email" : "juliaoliveira@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "112" ,
+		"nome" : "José António Colaço Gomes Covas" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510323" ,
+		"email" : "jcovas@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "113" ,
+		"nome" : "Mário Filipe Araújo Gonçalves Lima" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510226" ,
+		"email" : "mlima@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt/people/mlima"
+	},
+	{
+		"id" : "114" ,
+		"nome" : "Júlio Manuel Sousa Barreiros Martins" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510198-604701" ,
+		"email" : "jmartins@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "115" ,
+		"nome" : "Maria Manuela Reis Martins" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604299" ,
+		"email" : "mmmartins@uaum.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "116" ,
+		"nome" : "Maria Isabel Santos Rosa Caetano Alves" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604304" ,
+		"email" : "icaetano@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "117" ,
+		"nome" : "Jaime Isidoro Naylor Rocha Gomes" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510282" ,
+		"email" : "rgomes@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "118" ,
+		"nome" : "António Maria Caetano Alves" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604304" ,
+		"email" : "calves@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "120" ,
+		"nome" : "Maria Penha Campos Fernandes" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604187" ,
+		"email" : "mpenha@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "121" ,
+		"nome" : "Manuel Silva Costa" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604296" ,
+		"email" : "mscosta@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "122" ,
+		"nome" : "Margarida Pereira Varela Santos Montenegro Durães" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "605200/510576" ,
+		"email" : "margaridad@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "123" ,
+		"nome" : "José Manuel Pereira Vieira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "604722 / 517240" ,
+		"email" : "jvieira@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "127" ,
+		"nome" : "Maria Clara Almeida Pedro Jesus Oliveira" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604205" ,
+		"email" : "mclara@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "128" ,
+		"nome" : "Virgínia Conceição Soares Pereira" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "601633" ,
+		"email" : "virginia@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "138" ,
+		"nome" : "Maria Fátima Neves Guerreiro Sequeira" ,
+		"departamento" : "Departamento de Metodologias da Educação" ,
+		"telefone" : "253604270" ,
+		"email" : "fsequeira@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "139" ,
+		"nome" : "Pedro Miguel Páscoa Santos Martins" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "604188" ,
+		"email" : "pmmartins@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "140" ,
+		"nome" : "Pedro Miguel Ferreira Martins Arezes" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "253510354" ,
+		"email" : "parezes@dps.uminho.pt" ,
+		"url" : "http://pessoais.dps.uminho.pt/parezes/"
+	},
+	{
+		"id" : "141" ,
+		"nome" : "Maria Elizabete Martins Paiva Monteiro Cabeço Silva" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510283" ,
+		"email" : "elisabete@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "142" ,
+		"nome" : "Joaquim José Moreira Santos" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604200" ,
+		"email" : "msantos@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "143" ,
+		"nome" : "Maria Helena Coelho Teixeira Sá Lucas" ,
+		"departamento" : "Departamento de Matemática para a Ciência e Tecnologia" ,
+		"telefone" : "510427" ,
+		"email" : "hlucas@mct.uminho.pt" ,
+		"url" : "http://www.mct.uminho.pt"
+	},
+	{
+		"id" : "144" ,
+		"nome" : "Domingas Rosário Verissimo Jacinto Tavares Oliveira" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604409" ,
+		"email" : "roliveira@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "145" ,
+		"nome" : "Manuel José Silva" ,
+		"departamento" : "Departamento de Estudos Franceses" ,
+		"telefone" : "604194" ,
+		"email" : "rosario@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "146" ,
+		"nome" : "Carlos Alberto Páscoa Machado" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 567" ,
+		"email" : "pascoa@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/pascoa"
+	},
+	{
+		"id" : "149" ,
+		"nome" : "António Vasco Amaral Nunes" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "253510220/233" ,
+		"email" : "anunes@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "152" ,
+		"nome" : "Renato Jorge Ramos Morgado" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510392" ,
+		"email" : "renato@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "153" ,
+		"nome" : "Mary Elizabeth Mullin" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604199" ,
+		"email" : "mary@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "156" ,
+		"nome" : "Margarida Paula Pedra Amorim Casal" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604044" ,
+		"email" : "mcasal@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "162" ,
+		"nome" : "Alberto Sérgio Sá Rodrigues Miguel" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510369" ,
+		"email" : "asmiguel@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "164" ,
+		"nome" : "Fernando Mário Junqueira Martins" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604470" ,
+		"email" : "fmm@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "166" ,
+		"nome" : "Said Jalali" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510204" ,
+		"email" : "said@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "167" ,
+		"nome" : "José Luís Pires Ribeiro" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604326" ,
+		"email" : "jlr@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "168" ,
+		"nome" : "José António Silva Fernandes" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604664" ,
+		"email" : "jfernandes@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "169" ,
+		"nome" : "João Luís Marques Pereira Monteiro" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "+351 253 510 196/0" ,
+		"email" : "joao.monteiro@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "170" ,
+		"nome" : "Manuel José Rocha Armada" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604528" ,
+		"email" : "rarmada@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "172" ,
+		"nome" : "Maria Madalena Teixeira Araújo" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510350" ,
+		"email" : "mmaraujo@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "174" ,
+		"nome" : "Alexandre Júlio Teixeira Santos" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604474" ,
+		"email" : "alex@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "175" ,
+		"nome" : "Noémia Maria Ribeiro Almeida Carneiro Pacheco" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510288" ,
+		"email" : "noemiac@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "176" ,
+		"nome" : "Paulo António Alves Pereira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510174 510240" ,
+		"email" : "ppereira@eng.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "177" ,
+		"nome" : "António Alberto Caetano Monteiro" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510222" ,
+		"email" : "cmonteiro@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "178" ,
+		"nome" : "Maria Manuela Mestre Marques Palmeirim" ,
+		"departamento" : "Secção de Antropologia" ,
+		"telefone" : "605295" ,
+		"email" : "mpalmeirim@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt"
+	},
+	{
+		"id" : "179" ,
+		"nome" : "Ana Maria Moreira Ferreira Rocha" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510290" ,
+		"email" : "amrocha@det.uminho.pt" ,
+		"url" : "http://www.det.uminho.pt"
+	},
+	{
+		"id" : "183" ,
+		"nome" : "Maria Teresa Sousa Pessoa Amorim" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510286" ,
+		"email" : "mtamorim@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "184" ,
+		"nome" : "José Luís Meireles Batista" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604299" ,
+		"email" : "jmeireles@uaum.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "185" ,
+		"nome" : "Maria Manuela Silva Torres Matos Neves" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510284" ,
+		"email" : "mneves@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "186" ,
+		"nome" : "Licínio Carlos Viana Silva Lima" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "604262" ,
+		"email" : "llima@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "187" ,
+		"nome" : "Pedro Manuel Rangel Santos Henriques" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253(604469)" ,
+		"email" : "prh@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~prh"
+	},
+	{
+		"id" : "188" ,
+		"nome" : "Minoo Farhangmehr" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "604556" ,
+		"email" : "minoo@eeg.uminho.pt" ,
+		"url" : "http://www1.eeg.uminho.pt/gestao/minoo/"
+	},
+	{
+		"id" : "189" ,
+		"nome" : "Manuel Fernandes Ferreira" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604315" ,
+		"email" : "mfferreira@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "190" ,
+		"nome" : "António Manuel Cerqueira Gomes Brito" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510331" ,
+		"email" : "amb@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "193" ,
+		"nome" : "Jorge José Gomes Martins" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "+351 253 510 235" ,
+		"email" : "jmartins@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt/People/jmartins/"
+	},
+	{
+		"id" : "194" ,
+		"nome" : "Pedro Nuno Ferreira Pinto Oliveira" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510361" ,
+		"email" : "pno@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "197" ,
+		"nome" : "Maria Jovita Soares Oliveira" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510332" ,
+		"email" : "jovita@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "198" ,
+		"nome" : "Ana Maria Almeida Santos Pereira Vale" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604096" ,
+		"email" : "avale@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "199" ,
+		"nome" : "Manuel Rosa Gonçalves Gama" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "604182" ,
+		"email" : "mrcgama@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "201" ,
+		"nome" : "Mário Jorge Dias Zamith Silva" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253510462" ,
+		"email" : "zamith@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "202" ,
+		"nome" : "Maria Jesus Matos Gomes" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604327" ,
+		"email" : "mjesus@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "204" ,
+		"nome" : "José João Antunes Guimarães Dias Almeida" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604479" ,
+		"email" : "jj@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jj"
+	},
+	{
+		"id" : "205" ,
+		"nome" : "Maria Manuela Oliveira Guedes Almeida" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510485" ,
+		"email" : "malmeida@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "206" ,
+		"nome" : "Maria Sameiro Faria Brandão Soares Carvalho" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604749" ,
+		"email" : "sameiro@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "207" ,
+		"nome" : "José Luís Barroso Aguiar" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510206" ,
+		"email" : "aguiar@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "209" ,
+		"nome" : "Carlos Augusto Alves Leal Gomes" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604307" ,
+		"email" : "lgomes@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "210" ,
+		"nome" : "Paulo José Guimarães Garrido" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510390" ,
+		"email" : "pgarrido@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "212" ,
+		"nome" : "Isabel Maria Cravo Aguiar Pinto Mina" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604049" ,
+		"email" : "icapmina@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "213" ,
+		"nome" : "José  António Cadima Ribeiro" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604540" ,
+		"email" : "jcadima@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/jcadima"
+	},
+	{
+		"id" : "219" ,
+		"nome" : "Lillian Santos Reis" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604204" ,
+		"email" : "lillian@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "221" ,
+		"nome" : "Rita Maria Gonçalves Ribeiro" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604294" ,
+		"email" : "rmgr@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "224" ,
+		"nome" : "José Carlos Pimenta Claro" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "+351253510221" ,
+		"email" : "jcpclaro@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt/People/pclaro/jcpclaro.html"
+	},
+	{
+		"id" : "227" ,
+		"nome" : "João Álvaro Brandão Soares Carvalho" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510304" ,
+		"email" : "jac@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "228" ,
+		"nome" : "José Carlos Fernandes Teixeira" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "253510236" ,
+		"email" : "jt@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "229" ,
+		"nome" : "José Rodrigues Sampaio" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "253604355" ,
+		"email" : "jsampaio@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "233" ,
+		"nome" : "Maria Suzana Freitas Sousa Mendes Gonçalves" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604091" ,
+		"email" : "smendes@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "234" ,
+		"nome" : "Maria Cláudia Freitas Sousa Mendes Araújo" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253604091" ,
+		"email" : "clmendes@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "235" ,
+		"nome" : "Luís Alfredo Martins Amaral" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510303" ,
+		"email" : "amaral@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "238" ,
+		"nome" : "Maria Alcina Alpoim Sousa Pereira" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "253604423" ,
+		"email" : "d238@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "239" ,
+		"nome" : "Senhorinha Fátima Capela Fortunas Teixeira" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510345" ,
+		"email" : "st@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "240" ,
+		"nome" : "José Manuel Cardoso Teixeira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510497" ,
+		"email" : "jct@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "271" ,
+		"nome" : "Bento Duarte Silva" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253604663/ 253604222" ,
+		"email" : "bento@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "312" ,
+		"nome" : "Maria Conceição Jesus Rego Paiva" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "253510327" ,
+		"email" : "mcpaiva@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt/mcpaiva"
+	},
+	{
+		"id" : "430" ,
+		"nome" : "Maria Helena Roberto Cardoso" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "253604046" ,
+		"email" : "mhc@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "444" ,
+		"nome" : "Júlia Maria Simões Dias Barata Tovar Aires Campos" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604332" ,
+		"email" : "julia@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "457" ,
+		"nome" : "Albertino José Ribeiro Gonçalves" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604289" ,
+		"email" : "albertino@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "462" ,
+		"nome" : "António Costa Marques Pinho" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510230" ,
+		"email" : "acmpinho@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "464" ,
+		"nome" : "José Vicente Acciaiuoli Catalão Concio Fonseca" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604065" ,
+		"email" : "vicente@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "488" ,
+		"nome" : "Luís Augusto Sousa Marques Rocha" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510231/517250" ,
+		"email" : "lrocha@dem.uminho.pt" ,
+		"url" : ""
+	},
+	{
+		"id" : "490" ,
+		"nome" : "Rui João Peixoto José" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510307" ,
+		"email" : "rui@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt/~rui"
+	},
+	{
+		"id" : "494" ,
+		"nome" : "Pedro Alexandre Moreira Lobarinhas" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510237" ,
+		"email" : "pl@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "499" ,
+		"nome" : "José Fernando Gomes Mendes" ,
+		"departamento" : "Vice-Reitor - JFGM" ,
+		"telefone" : "604724 / 517493" ,
+		"email" : "sec-jmendes@reitoria.uminho.pt" ,
+		"url" : "-"
+	},
+	{
+		"id" : "505" ,
+		"nome" : "José Marques Fernandes" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "604188" ,
+		"email" : "jmarquesf@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "513" ,
+		"nome" : "Pedro Carlos Silva Bacelar Vasconcelos" ,
+		"departamento" : "Departamento de Ciências Jurídicas Públicas" ,
+		"telefone" : "253601855" ,
+		"email" : "pvasconcelos@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "514" ,
+		"nome" : "Luís Manuel Couto Gonçalves" ,
+		"departamento" : "Departamento de Ciências Jurídico-Privatísticas" ,
+		"telefone" : "253601826" ,
+		"email" : "luismcg@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "515" ,
+		"nome" : "José Manuel Vasconcelos Valério Carvalho" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "+351 253 604 744" ,
+		"email" : "vc@dps.uminho.pt" ,
+		"url" : "http://pessoais.dps.uminho.pt/vc/"
+	},
+	{
+		"id" : "517" ,
+		"nome" : "Guilherme Augusto Borges Pereira" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604749" ,
+		"email" : "gui@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "518" ,
+		"nome" : "António Augusto Magalhães Cunha" ,
+		"departamento" : "Gabinete do Reitor" ,
+		"telefone" : "601106" ,
+		"email" : "sec-amcunha@reitoria.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "519" ,
+		"nome" : "João Paulo Flores Fernandes" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "253510220" ,
+		"email" : "pflores@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt/People/pflores/"
+	},
+	{
+		"id" : "522" ,
+		"nome" : "Diamantino Manuel Insua Pereira" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604301" ,
+		"email" : "insuad@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "544" ,
+		"nome" : "José Alberto Cunha Martins Peixoto" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "d544@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "550" ,
+		"nome" : "António Coutinho Silveira Ramos" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604383" ,
+		"email" : "asramos@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "554" ,
+		"nome" : "Laura Ferreira Santos" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604617" ,
+		"email" : "lsantos@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "560" ,
+		"nome" : "Joseph Eugene Mullin" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604199" ,
+		"email" : "mullin@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "561" ,
+		"nome" : "Teresa Maria Santos Ribeiro Viseu" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604329" ,
+		"email" : "tviseu@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "562" ,
+		"nome" : "Maria Conceição Ferreira Carrilho Jézéquel" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "604177" ,
+		"email" : "ccarrilho@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "564" ,
+		"nome" : "Manuel Gonçalves Barbosa" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604654" ,
+		"email" : "mbarbosa@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "566" ,
+		"nome" : "José Fernando Silva Azevedo Cruz" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "253 604100" ,
+		"email" : "jcruz@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "568" ,
+		"nome" : "Paulo Maria Bastos Silva Dias" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253604266" ,
+		"email" : "paulodias@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt/paulodias.page"
+	},
+	{
+		"id" : "569" ,
+		"nome" : "Pedro Jorge Sobral Camões" ,
+		"departamento" : "Administração" ,
+		"telefone" : "253601045" ,
+		"email" : "pedroc@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap"
+	},
+	{
+		"id" : "571" ,
+		"nome" : "Maria Antónia Paulo Dias Pereira Forjaz" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604356" ,
+		"email" : "maf@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "573" ,
+		"nome" : "Maria Lurdes Azevedo Teixeira" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604346" ,
+		"email" : "mlurdes@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "576" ,
+		"nome" : "José Carlos Oliveira Casulo" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604251" ,
+		"email" : "jcasulo@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "579" ,
+		"nome" : "Eunice Maria Silva Ribeiro" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "601647/604175 (Pres." ,
+		"email" : "eunice@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "580" ,
+		"nome" : "Henrique Barroso Fernandes" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604178" ,
+		"email" : "hbarroso@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "581" ,
+		"nome" : "Jacques Fernandes Silva" ,
+		"departamento" : "Departamento de Metodologias da Educação" ,
+		"telefone" : "604667" ,
+		"email" : "jsilva@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "582" ,
+		"nome" : "Laurinda Sousa Ferreira Leite" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253 604274 / 604240" ,
+		"email" : "lleite@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "584" ,
+		"nome" : "Maria Céu Melo Esteves Pereira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604639" ,
+		"email" : "mmelo@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "587" ,
+		"nome" : "Mário Jorge Cardoso Coelho Freitas" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "604272" ,
+		"email" : "mfreitas@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "589" ,
+		"nome" : "Rui Manuel Costa Vieira Castro" ,
+		"departamento" : "Vice-Reitor - RVC" ,
+		"telefone" : "602190 / 604638" ,
+		"email" : "sec-rvcastro@reitoria.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "590" ,
+		"nome" : "Ana Maria Tomás Almeida" ,
+		"departamento" : "Departamento de Psicologia da Educação e Educação Especial" ,
+		"telefone" : "253601241" ,
+		"email" : "aalmeida@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "592" ,
+		"nome" : "Maria Teresa Jesus Simões Campos Tavares" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604410" ,
+		"email" : "ttavares@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "594" ,
+		"nome" : "Francisco Ferreira Martins" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510202 " ,
+		"email" : "ffm@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "595" ,
+		"nome" : "José Bernardo Santos Monteiro Vieira Barros" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604450" ,
+		"email" : "jbb@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jbb"
+	},
+	{
+		"id" : "596" ,
+		"nome" : "Ana Paula Seixas Mourão" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "253604345" ,
+		"email" : "apmourao@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "605" ,
+		"nome" : "Amadeu Vinhal Gonçalves Alvarenga" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "602204" ,
+		"email" : "alvarenga@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "611" ,
+		"nome" : "Nuno José Pizarro Pinto Dias" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "5282" ,
+		"email" : "pizarro@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "612" ,
+		"nome" : "Carlos Alberto Gomes" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604277" ,
+		"email" : "calberto@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "613" ,
+		"nome" : "Isabel Flávia Gonçalves Fernandes Ferreira Vieira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604669" ,
+		"email" : "flaviav@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "615" ,
+		"nome" : "Fernando António Portela Sousa Castro" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510224" ,
+		"email" : "fcastro@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "616" ,
+		"nome" : "António Maria Vieira Paisana" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510351" ,
+		"email" : "apaisana@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "617" ,
+		"nome" : "José Orlando Roque Nascimento Pereira" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604449" ,
+		"email" : "jop@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jop"
+	},
+	{
+		"id" : "619" ,
+		"nome" : "Pedro Alexandre Faria Fernandes Teixeira Gomes" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604040" ,
+		"email" : "pagomes@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "620" ,
+		"nome" : "Luís Filipe Lobo-Fernandes" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "253604522" ,
+		"email" : "luislobo@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap"
+	},
+	{
+		"id" : "621" ,
+		"nome" : "António Luís Pinto Ferreira Sousa" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604449" ,
+		"email" : "als@di.uminho.pt" ,
+		"url" : "http://gsd.di.uminho.pt/members/als"
+	},
+	{
+		"id" : "624" ,
+		"nome" : "Ricardo Jorge Silvério Magalhães Machado" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510307" ,
+		"email" : "rmac@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt/~rmac"
+	},
+	{
+		"id" : "626" ,
+		"nome" : "Fernanda Maria Fraga Mimoso Gouveia Cássio" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604045" ,
+		"email" : "fcassio@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "638" ,
+		"nome" : "Teresa Augusta Ruão Correia Pinto" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605285" ,
+		"email" : "truao@ics.uminho.pt" ,
+		"url" : "http://www.comunicacao.uminho.pt"
+	},
+	{
+		"id" : "639" ,
+		"nome" : "Helena Maria Leite Pato Granja Wahnon Araújo" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604303" ,
+		"email" : "hgranja@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "652" ,
+		"nome" : "Wladimir Augusto Correia Brito" ,
+		"departamento" : "Departamento de Ciências Jurídicas Públicas" ,
+		"telefone" : "253601857" ,
+		"email" : "wladimir@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "653" ,
+		"nome" : "Jean Martin Marie Rabot" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604289" ,
+		"email" : "jmrabot@ics.uminho.pt" ,
+		"url" : "http://www.sociologia.uminho.pt"
+	},
+	{
+		"id" : "658" ,
+		"nome" : "Ligia Lourdes Miranda Marona Rodrigues" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604375" ,
+		"email" : "ligiar@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "662" ,
+		"nome" : "José Assis Ribeiro Azevedo" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253604099" ,
+		"email" : "assis@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "663" ,
+		"nome" : "Lisa Maria Freitas Santos" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604098" ,
+		"email" : "lisa@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "664" ,
+		"nome" : "Rosa Maria Castro Fernandes Vasconcelos" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510292 /517178" ,
+		"email" : "rosa@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "667" ,
+		"nome" : "Marta Maria Duarte Ramos" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604330" ,
+		"email" : "marta@fisica.uminho.pt" ,
+		"url" : "http://www.gfct.fisica.uminho.pt/Members/marta"
+	},
+	{
+		"id" : "668" ,
+		"nome" : "Isabel Cristina Brito Pinto Mateus" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604193" ,
+		"email" : "icmateus@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "671" ,
+		"nome" : "José Carlos Viana Gomes" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604336" ,
+		"email" : "zgomes@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "672" ,
+		"nome" : "Maria Helena Almeida Silva Guimarães" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "25604544" ,
+		"email" : "guimarmh@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "673" ,
+		"nome" : "Fernando Batista Nunes Ferreira" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "253510294" ,
+		"email" : "fnunes@det.uminho.pt" ,
+		"url" : "http://det.uminho.pt"
+	},
+	{
+		"id" : "675" ,
+		"nome" : "Luís Manuel Bragança Miranda Lopes" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510241" ,
+		"email" : "braganca@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "676" ,
+		"nome" : "Joaquim Fernando Cunha Guimarães" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "605525" ,
+		"email" : "jguimaraes@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/dgap"
+	},
+	{
+		"id" : "677" ,
+		"nome" : "Jorge Reinaldo Oliveira Neves" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510287" ,
+		"email" : "jgneves@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "679" ,
+		"nome" : "Jorge Manuel Martins Jorge" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604333" ,
+		"email" : "jorge@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "680" ,
+		"nome" : "Ana Paula Costa Conceição Amorim" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604083" ,
+		"email" : "apamorim@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "683" ,
+		"nome" : "Luís Manuel Dias Coelho Soares Barbosa" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604463" ,
+		"email" : "lsb@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "689" ,
+		"nome" : "Michael John Smith" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604051" ,
+		"email" : "mjsmith@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "692" ,
+		"nome" : "Henrique Manuel Dinis Santos" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510302" ,
+		"email" : "hsantos@dsi.uminho.pt" ,
+		"url" : "http://www3.dsi.uminho.pt/hsantos"
+	},
+	{
+		"id" : "693" ,
+		"nome" : "Anabela Carvalho Alves" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "253510766" ,
+		"email" : "anabela@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "694" ,
+		"nome" : "Charlotte Henriette Martha Frei" ,
+		"departamento" : "Departamento de Estudos Germanísticos" ,
+		"telefone" : "5173" ,
+		"email" : "frei@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "699" ,
+		"nome" : "Eduardo Jorge Nunes Pereira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604336" ,
+		"email" : "epereira@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "700" ,
+		"nome" : "Olga Machado Sousa Carneiro" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510333" ,
+		"email" : "olgasc@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "701" ,
+		"nome" : "José Manuel Ramos Gomes" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510232" ,
+		"email" : "jgomes@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "706" ,
+		"nome" : "Sérgio António Real Oliveira" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "253510314" ,
+		"email" : "saro@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "711" ,
+		"nome" : "Maria Lourdes Trindade Dionísio" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604668" ,
+		"email" : "mldionisio@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "715" ,
+		"nome" : "Maria Zara Simões Pinto Coelho" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605211" ,
+		"email" : "zara@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "719" ,
+		"nome" : "Manuel Filipe Pereira Cunha Martins Costa" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604070" ,
+		"email" : "mfcosta@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "723" ,
+		"nome" : "Almerindo Janela Gonçalves Afonso" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604622" ,
+		"email" : "ajafonso@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "725" ,
+		"nome" : "António Carlos Silva Abelha" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604453" ,
+		"email" : "abelha@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "728" ,
+		"nome" : "Rui Manuel Dinis Sousa" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "253510316/9" ,
+		"email" : "rds@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "729" ,
+		"nome" : "António Mauricio Costa Fonseca" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604056" ,
+		"email" : "amcf@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "731" ,
+		"nome" : "Artur Jorge Pereira Rodrigues" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253601923" ,
+		"email" : "artur.rodrigues@eeg.uminho.pt" ,
+		"url" : "https://sites.google.com/site/arturrodriguesum"
+	},
+	{
+		"id" : "732" ,
+		"nome" : "Ana Cristina Almeida Carvalho" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253601943" ,
+		"email" : "anac@eeg.uminho.pt" ,
+		"url" : "http://anacarvalho.net"
+	},
+	{
+		"id" : "733" ,
+		"nome" : "Regina Maria Oliveira Leite" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253601914" ,
+		"email" : "rleite@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "740" ,
+		"nome" : "Mário José Pimenta Roque Oliveira" ,
+		"departamento" : "Departamento de Matemática para a Ciência e Tecnologia" ,
+		"telefone" : "253510400" ,
+		"email" : "" ,
+		"url" : "http://www.mct.uminho.pt"
+	},
+	{
+		"id" : "747" ,
+		"nome" : "Maria Helena Faria Mendonça Figueiredo" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "604354" ,
+		"email" : "helenaf@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "748" ,
+		"nome" : "José Carlos Soares Brandão" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604552" ,
+		"email" : "sbrandao@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "751" ,
+		"nome" : "Nuno Manuel Pinto Oliveira" ,
+		"departamento" : "Departamento de Ciências Jurídico-Privatísticas" ,
+		"telefone" : "253601828" ,
+		"email" : "npo@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "762" ,
+		"nome" : "Orlando Manuel Oliveira Belo" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604476" ,
+		"email" : "obelo@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~omb"
+	},
+	{
+		"id" : "781" ,
+		"nome" : "António Gaspar Lopes Cunha" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "253510328" ,
+		"email" : "agc@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt/agc/"
+	},
+	{
+		"id" : "784" ,
+		"nome" : "Cristina Manuela Peixoto Santos" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510185" ,
+		"email" : "cristina@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "787" ,
+		"nome" : "Carlos José Cabral Cardoso" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604553" ,
+		"email" : "ccabral@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "788" ,
+		"nome" : "Maria Cristina Daniel Álvares" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "604196" ,
+		"email" : "calvares@ilch.uminho.pt" ,
+		"url" : "http://lattes.cnpq.br/2186245250260665 "
+	},
+	{
+		"id" : "791" ,
+		"nome" : "João Baptista Costa Carvalho" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604558" ,
+		"email" : "jcarvalho@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "797" ,
+		"nome" : "Joaquim Gomes Sá" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253601237" ,
+		"email" : "jgsa@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "801" ,
+		"nome" : "Maria Engrácia Leandro" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "" ,
+		"email" : "engracia@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "802" ,
+		"nome" : "José Sousa Teixeira" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "601627" ,
+		"email" : "jsteixeira@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "803" ,
+		"nome" : "Américo António Lindeza Diogo" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604178" ,
+		"email" : "diogo@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "804" ,
+		"nome" : "Maria Elvira Costa Madeira Lima" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 548" ,
+		"email" : "elviral@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "805" ,
+		"nome" : "Olga Maria Vaz Moreira" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "604353" ,
+		"email" : "ovaz@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "809" ,
+		"nome" : "Maria Gilda Brito Lopes" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604510-5525" ,
+		"email" : "mariaglopes@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "814" ,
+		"nome" : "Luís António Sousa Barreiros Martins" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510238" ,
+		"email" : "lmartins@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "818" ,
+		"nome" : "Maria Fernanda Alves Pinto" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "604353" ,
+		"email" : "fpinto@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "819" ,
+		"nome" : "Lino Moreira Silva" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604637" ,
+		"email" : "lmoreira@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "837" ,
+		"nome" : "José Augusto Brito Pacheco" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253601200/253604240" ,
+		"email" : "jpacheco@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "838" ,
+		"nome" : "Manuel José Jacinto Sarmento Pereira" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253601217 / 604632" ,
+		"email" : "sarmento@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "848" ,
+		"nome" : "Maria Rosa Rocha Valente Sil Monteiro" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604193" ,
+		"email" : "mrrvsm@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "850" ,
+		"nome" : "Patrícia Penélope Mendes Jerónimo Vink" ,
+		"departamento" : "Departamento de Ciências Jurídicas Gerais" ,
+		"telefone" : "253601814" ,
+		"email" : "ppmj@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "856" ,
+		"nome" : "Ricardo José Mendes Severino" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604089" ,
+		"email" : "ricardo@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "859" ,
+		"nome" : "Margarida Isabel Esteves Silva Pereira" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604204" ,
+		"email" : "margarida@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "860" ,
+		"nome" : "Cacilda Maria Lima Moura" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604066" ,
+		"email" : "cmoura@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "862" ,
+		"nome" : "Manuel Carlos Barbosa Figueiredo" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604761" ,
+		"email" : "mcf@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "865" ,
+		"nome" : "Isabel Maria Machado Correia Brioso Dias" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 532" ,
+		"email" : "icorreia@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "871" ,
+		"nome" : "Maria Carmo Senra Campelo Monteiro Pereira" ,
+		"departamento" : "Profissionalização em Serviço - IEC" ,
+		"telefone" : "601223" ,
+		"email" : "ccampelo@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "876" ,
+		"nome" : "Manuel Silva Fernandes" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "879" ,
+		"nome" : "Joaquim Gomes Dias" ,
+		"departamento" : "Profissionalização em Serviço - IEC" ,
+		"telefone" : "601223" ,
+		"email" : "prservico@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "883" ,
+		"nome" : "Joanne Madin Vieira Paisana" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604197" ,
+		"email" : "jpaisana@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "890" ,
+		"nome" : "Ana Paula Lima Pinto Oliveira Almeida Brandão" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "+351 253604524" ,
+		"email" : "abrandao@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/abrandao.page"
+	},
+	{
+		"id" : "897" ,
+		"nome" : "Manuel António Ferreira Silva" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "604628" ,
+		"email" : "masilva@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "899" ,
+		"nome" : "José António Passos Palmeira" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "253604525" ,
+		"email" : "palmeira@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap/"
+	},
+	{
+		"id" : "908" ,
+		"nome" : "Maria Conceição Falcão Ferreira" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604287" ,
+		"email" : "cfalcao@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "912" ,
+		"nome" : "José Manuel Morais Lopes Cordeiro" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604297" ,
+		"email" : "cordeiro@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "922" ,
+		"nome" : "Vitor Manuel Pires Aguiar Silva" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "253604171" ,
+		"email" : "d922@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "924" ,
+		"nome" : "Maria Irene Ferrão Carvalho Ribeiro Almeida Falcão" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604093" ,
+		"email" : "mif@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "925" ,
+		"nome" : "José Carlos Cruz Costa" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604344" ,
+		"email" : "jcosta@math.uminho.pt" ,
+		"url" : "http://w3.math.uminho.pt/~jcosta"
+	},
+	{
+		"id" : "927" ,
+		"nome" : "Vítor Mariano Rodrigues Sousa" ,
+		"departamento" : "Departamento de Matemática para a Ciência e Tecnologia" ,
+		"telefone" : "510431" ,
+		"email" : "vmariano@mct.uminho.pt" ,
+		"url" : "http://www.mct.uminho.pt"
+	},
+	{
+		"id" : "928" ,
+		"nome" : "Ana Rute Pedro Cardoso" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 584" ,
+		"email" : "cardoso@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "931" ,
+		"nome" : "José Manuel Ferreira Machado" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604438" ,
+		"email" : "jmac@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jmac"
+	},
+	{
+		"id" : "932" ,
+		"nome" : "Miguel António Sousa Abrunhosa Brito" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "253510309" ,
+		"email" : "mab@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "935" ,
+		"nome" : "Paula Alexandra Varanda Ribeiro Guimarães" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "601634" ,
+		"email" : "paulag@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "938" ,
+		"nome" : "Marlène Fernandes Silva Silva" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "604636" ,
+		"email" : "msilva@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "946" ,
+		"nome" : "Júlio César Machado Viana" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510335" ,
+		"email" : "jcv@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "947" ,
+		"nome" : "Nuno João Meleiro Alves Neves" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "253 510900" ,
+		"email" : "nuno@dep.uminho.pt" ,
+		"url" : "http://www.3bs.uminho.pt"
+	},
+	{
+		"id" : "948" ,
+		"nome" : "Maria Carolina Valente Pinho Leite" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605211" ,
+		"email" : "mcarolina@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "949" ,
+		"nome" : "Elza Maria Gonçalves Rodrigues Carvalho" ,
+		"departamento" : "Secção de Geografia" ,
+		"telefone" : "517568" ,
+		"email" : "elza@geografia.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~geografia"
+	},
+	{
+		"id" : "952" ,
+		"nome" : "António José Pinheiro Coutinho" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510315" ,
+		"email" : "ajc@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "956" ,
+		"nome" : "Olga Maria Gomes Martins Pacheco" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604445" ,
+		"email" : "omp@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~omp/"
+	},
+	{
+		"id" : "962" ,
+		"nome" : "Maria José Feio Mendes Silva Medeiros" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604050" ,
+		"email" : "medeiros@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "966" ,
+		"nome" : "Carlos Alberto Arriaga Taboleiros Costa" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 543" ,
+		"email" : "caac@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/caac"
+	},
+	{
+		"id" : "974" ,
+		"nome" : "Vasco Manuel Pinto Teixeira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "510465; 601118" ,
+		"email" : "sec-vteixeira@reitoria.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "976" ,
+		"nome" : "Maria Dulce Silva Geraldo" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "253604053" ,
+		"email" : "gdulce@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "977" ,
+		"nome" : "Graça Maria Henriques Minas" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510185-604705" ,
+		"email" : "gminas@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/~gminas"
+	},
+	{
+		"id" : "978" ,
+		"nome" : "Isabel Cristina Guimarães Sanches Sá" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604284" ,
+		"email" : "isabelsa@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "981" ,
+		"nome" : "Maria Teresa Jacinto Sarmento Pereira" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253601239/ 253604279" ,
+		"email" : "tsarmento@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "982" ,
+		"nome" : "Elisa Maria Maia Silva Lessa" ,
+		"departamento" : "Departamento de Música" ,
+		"telefone" : "601207" ,
+		"email" : "elisalessa@ilch.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "983" ,
+		"nome" : "Álvaro Iriarte Sanromán" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604209" ,
+		"email" : "alvaro@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "984" ,
+		"nome" : "Maria Conceição Oliveira Carvalho Nogueira" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "253 604 231" ,
+		"email" : "cnog@psi.uminho.pt" ,
+		"url" : "www.psi.uminho.pt"
+	},
+	{
+		"id" : "992" ,
+		"nome" : "João Carlos Cerejeira Silva" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "604587" ,
+		"email" : "jccsilva@eeg.uminho.pt" ,
+		"url" : "http://joao.cerejeira.googlepages.com/"
+	},
+	{
+		"id" : "993" ,
+		"nome" : "Maria João Cabral Almeida Ribeiro Thompson" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 601936" ,
+		"email" : "mjthompson@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/nipe/thompson/"
+	},
+	{
+		"id" : "995" ,
+		"nome" : "António Cesário Conceição Moreira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "517493" ,
+		"email" : "cesario@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "996" ,
+		"nome" : "Rosa Branca Silva Vilas-Boas Esteves" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253601932" ,
+		"email" : "rbranca@eeg.uminho.pt" ,
+		"url" : "http://esteves.rosabranca.googlepages.com/home"
+	},
+	{
+		"id" : "999" ,
+		"nome" : "Manuel Joaquim Silva Pinto" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "+351 253604214 / 280" ,
+		"email" : "mpinto@ics.uminho.pt" ,
+		"url" : "http://www.comunicacao.uminho.pt"
+	},
+	{
+		"id" : "1002" ,
+		"nome" : "Carlos Alberto Mendes Sousa" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "601628" ,
+		"email" : "mdesousa@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1003" ,
+		"nome" : "Maria Conceição Medeiros Martins Duarte" ,
+		"departamento" : "Departamento de Metodologias da Educação" ,
+		"telefone" : "604273" ,
+		"email" : "cduarte@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1007" ,
+		"nome" : "Ivo Manuel Pontes Domingues" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604294" ,
+		"email" : "ivodomingues@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1010" ,
+		"nome" : "Leonel Duarte Santos" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510311" ,
+		"email" : "leonel@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt/"
+	},
+	{
+		"id" : "1011" ,
+		"nome" : "António José Guerreiro Brito" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604418" ,
+		"email" : "agbrito@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "1012" ,
+		"nome" : "João Carlos Aparício Paulo Fernandes" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510372" ,
+		"email" : "aparicio@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/~aparicio/index.html"
+	},
+	{
+		"id" : "1014" ,
+		"nome" : "Maria Judite Alves Costa Almeida" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604042" ,
+		"email" : "juditealmeida@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1015" ,
+		"nome" : "Ana Maria Pais Santos Antunes Guimarães" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "253604345" ,
+		"email" : "titas@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1020" ,
+		"nome" : "Teresa Maria Figueiredo Passos Ramos Mota Miranda" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510272" ,
+		"email" : "tmiranda@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1022" ,
+		"nome" : "Naim Haie" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510205" ,
+		"email" : "naim@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1033" ,
+		"nome" : "Maria José Silva Gomes" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604204" ,
+		"email" : "zegomes@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "1035" ,
+		"nome" : "Maria Teresa Cerqueira Coelho Silva" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "604354" ,
+		"email" : "mteresa@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1036" ,
+		"nome" : "Rui Manuel Alves Silva Sousa" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510357" ,
+		"email" : "rms@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1037" ,
+		"nome" : "Maria Fátima Guimarães Cerqueira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604332" ,
+		"email" : "fcerqueira@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1038" ,
+		"nome" : "João Pedro Miranda Carvalho" ,
+		"departamento" : "Departamento de Matemática" ,
+		"telefone" : "253604355" ,
+		"email" : "jcarvalho@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1040" ,
+		"nome" : "Joaquim Alexandre Santos Almeida Oliveira Carneiro" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "510477" ,
+		"email" : "carneiro@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1041" ,
+		"nome" : "Mário Rui Cunha Pereira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604335" ,
+		"email" : "mrui@fisica.uminho.pt" ,
+		"url" : "http://online.uminho.pt/pessoas/mrui/"
+	},
+	{
+		"id" : "1042" ,
+		"nome" : "Cecília Maria Vasconcelos Costa Castro Azevedo" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604348" ,
+		"email" : "cecilia@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1044" ,
+		"nome" : "Arminda Manuela Andrade Pereira Gonçalves" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253510433" ,
+		"email" : "mneves@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1045" ,
+		"nome" : "Carlos Alberto Alves Freitas" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "5283" ,
+		"email" : "cfreitas@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1046" ,
+		"nome" : "Leandro Silva Almeida" ,
+		"departamento" : "Departamento de Psicologia da Educação e Educação Especial" ,
+		"telefone" : "253604255 /25 604222" ,
+		"email" : "leandro@ie.uminho.pt" ,
+		"url" : "http://www.degois.pt/visualizador/curriculum.jsp?key=6494515468650454"
+	},
+	{
+		"id" : "1047" ,
+		"nome" : "Maria Isabel Gomes Barca Oliveira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604666" ,
+		"email" : "isabar@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1050" ,
+		"nome" : "Sérgio Miguel Cardoso Nascimento" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604328" ,
+		"email" : "smcn@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1053" ,
+		"nome" : "Natália Maria Sá Figueiredo Pimenta Monteiro" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 539" ,
+		"email" : "n.monteiro@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/nmonteiro"
+	},
+	{
+		"id" : "1054" ,
+		"nome" : "Ana Paula Assunção Esteves" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604373" ,
+		"email" : "aesteves@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1056" ,
+		"nome" : "Joaquim António Oliveira Barros" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510210" ,
+		"email" : "barros@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1057" ,
+		"nome" : "Filipe Artur Pacheco Neves Carteado Mena" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253-604087" ,
+		"email" : "fmena@math.uminho.pt" ,
+		"url" : "http://w3.math.uminho.pt/~fmena"
+	},
+	{
+		"id" : "1059" ,
+		"nome" : "Fernanda Leopoldina Parente Viana" ,
+		"departamento" : "Departamento de Psicologia da Educação e Educação Especial" ,
+		"telefone" : "253601240" ,
+		"email" : "fviana@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1060" ,
+		"nome" : "Manuel Lopes Simões" ,
+		"departamento" : "Departamento de Música" ,
+		"telefone" : "601340" ,
+		"email" : "manuellopessimoes@ilch.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "1061" ,
+		"nome" : "Paulo Manuel Matos Cabral Pedreira Gonçalves Carvalhal" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510389" ,
+		"email" : "pcarvalhal@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1063" ,
+		"nome" : "Luís Paulo Peixoto Santos" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604439" ,
+		"email" : "psantos@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~psantos"
+	},
+	{
+		"id" : "1064" ,
+		"nome" : "Manuel Filipe Vieira Torres Santos" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510306" ,
+		"email" : "mfs@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "1065" ,
+		"nome" : "Maria Madalena Santos Alves" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604417" ,
+		"email" : "madalena.alves@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "1066" ,
+		"nome" : "José Pedro Miranda Mourão Patrício" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "(253)604355" ,
+		"email" : "pedro@math.uminho.pt" ,
+		"url" : "http://w3.math.uminho.pt/~pedro"
+	},
+	{
+		"id" : "1068" ,
+		"nome" : "Ana Maria Santos Bettencourt" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604211" ,
+		"email" : "anabett@uaum.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "1069" ,
+		"nome" : "Nadejda Ivanovna Nagovitsina Machado" ,
+		"departamento" : "Departamento de Estudos Germanísticos" ,
+		"telefone" : "601638" ,
+		"email" : "nadia@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/deg"
+	},
+	{
+		"id" : "1070" ,
+		"nome" : "João Manuel Cardoso Rosas" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "604191" ,
+		"email" : "rosas@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "1073" ,
+		"nome" : "Celina Maria Godinho Silva Pinto Leão" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510361" ,
+		"email" : "cpl@dps.uminho.pt" ,
+		"url" : "http://pessoais.dps.uminho.pt/cpl/"
+	},
+	{
+		"id" : "1074" ,
+		"nome" : "Pedro Manuel Matos Pimenta Simões" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604308" ,
+		"email" : "pimenta@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "1076" ,
+		"nome" : "José Francisco Creissac Freitas Campos" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "253604447" ,
+		"email" : "jfc@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jfc"
+	},
+	{
+		"id" : "1078" ,
+		"nome" : "João Pedro Lourenço Gil Nunes" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510325" ,
+		"email" : "jpn@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "1079" ,
+		"nome" : "Nelson Manuel Viana Silva Lima" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253601256" ,
+		"email" : "nelson@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1082" ,
+		"nome" : "João Paulo Abreu Silva" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604206" ,
+		"email" : "jpsilva@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos/DEINA"
+	},
+	{
+		"id" : "1085" ,
+		"nome" : "Maria Alfredo Ferreira Freitas Lopes Moreira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604635" ,
+		"email" : "malfredo@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1086" ,
+		"nome" : "José Dinis Araújo Carvalho" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510356" ,
+		"email" : "dinis@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt/pessoais/jdac"
+	},
+	{
+		"id" : "1087" ,
+		"nome" : "José Bernardo Rodrigues Brilha" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "253604306" ,
+		"email" : "jbrilha@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt/docentes/brilha.html"
+	},
+	{
+		"id" : "1088" ,
+		"nome" : "Manuel Carlos Ferreira Silva" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604293" ,
+		"email" : "mcsilva@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1090" ,
+		"nome" : "Joaquim Melo Henriques Macedo" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604431" ,
+		"email" : "macedo@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1093" ,
+		"nome" : "Joaquim Filipe Ferraz Esteves Araújo" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "253604527" ,
+		"email" : "jfilipe@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap"
+	},
+	{
+		"id" : "1094" ,
+		"nome" : "Maria Céu Ribeiro Cortez" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253 604554" ,
+		"email" : "mccortez@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1096" ,
+		"nome" : "Maria Helena Silva Sousa Martinho" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604271" ,
+		"email" : "mhm@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1097" ,
+		"nome" : "Miguel Sopas Melo Bandeira" ,
+		"departamento" : "Secção de Geografia" ,
+		"telefone" : "605287" ,
+		"email" : "bandeira@ics.uminho.pt" ,
+		"url" : ""
+	},
+	{
+		"id" : "1098" ,
+		"nome" : "Francisco Alberto Marques Borges" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253601257" ,
+		"email" : "borges@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1103" ,
+		"nome" : "Maria Fátima Fernandes Esteves" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510297" ,
+		"email" : "festeves@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1110" ,
+		"nome" : "Maria Eduarda Ferreira Coquet" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "601218" ,
+		"email" : "coquet@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1111" ,
+		"nome" : "Maria Iolanda Ferreira Silva Ribeiro" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "604601" ,
+		"email" : "iolanda@psi.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1119" ,
+		"nome" : "Ana Paula Almada Faria Bettencourt Estevão" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "253604059" ,
+		"email" : "abete@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1120" ,
+		"nome" : "Martin Andritschky" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604320" ,
+		"email" : "martin.andritschky@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1135" ,
+		"nome" : "Maria Beatriz Ferreira Leite Oliveira Pereira" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253601205" ,
+		"email" : "beatriz@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1137" ,
+		"nome" : "Rodrigo Martins Pinto Azevedo" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604253" ,
+		"email" : "rodrigoazevedo@ie.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1138" ,
+		"nome" : "Maria Marta Lobo Araújo" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604285" ,
+		"email" : "martalobo@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "1145" ,
+		"nome" : "Maria Clara Faria Costa Oliveira" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604253" ,
+		"email" : "claracol@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1146" ,
+		"nome" : "Maria Fátima Cunha Moura Ferreira" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "604285" ,
+		"email" : "fmouraferreira@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "1147" ,
+		"nome" : "Óscar Filipe Coelho Neves Gonçalves" ,
+		"departamento" : "Departamento de Psicologia Básica" ,
+		"telefone" : "253604261" ,
+		"email" : "goncalves@psi.uminho.pt" ,
+		"url" : "http://webs.psi.uminho.pt/LABSPSI/lnp/"
+	},
+	{
+		"id" : "1150" ,
+		"nome" : "Maria Alice Gonçalves Carvalho" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604380" ,
+		"email" : "mac@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1151" ,
+		"nome" : "Ana Paula Freitas Assis Antunes Duarte" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "apa@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1152" ,
+		"nome" : "António Augusto Veloso Costa" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604345" ,
+		"email" : "aveloso@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1156" ,
+		"nome" : "Paulo Jorge Sousa Cruz" ,
+		"departamento" : "Presidência (Departamento Autónomo de Arquitectura)" ,
+		"telefone" : "253510505" ,
+		"email" : "pcruz@arquitectura.uminho.pt" ,
+		"url" : "http://www.lct.arquitectura.uminho.pt"
+	},
+	{
+		"id" : "1158" ,
+		"nome" : "Manuela Ivone Paredes Pereira Cunha" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604288" ,
+		"email" : "micunha@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt"
+	},
+	{
+		"id" : "1159" ,
+		"nome" : "José Fernando Pinheiro Neves" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604296" ,
+		"email" : "jpneves@ics.uminho.pt" ,
+		"url" : "http://pinheironeves.blogspot.com"
+	},
+	{
+		"id" : "1160" ,
+		"nome" : "Paula Cristina Almeida Cadima Remoaldo" ,
+		"departamento" : "Secção de Geografia" ,
+		"telefone" : "517563" ,
+		"email" : "premoaldo@geografia.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~geografia"
+	},
+	{
+		"id" : "1162" ,
+		"nome" : "Maria Fátima Malveiro Bento" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604399" ,
+		"email" : "fbento@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1163" ,
+		"nome" : "Carolina Feliciana Sá Cunha Machado" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604560" ,
+		"email" : "carolina@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1165" ,
+		"nome" : "Maria Isabel Neves Gonçalves Silva Martins" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604510-5525" ,
+		"email" : "mmartins@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1171" ,
+		"nome" : "Maria João Gomes Frade" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604445" ,
+		"email" : "mjf@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~mjf"
+	},
+	{
+		"id" : "1173" ,
+		"nome" : "Maria Paula Freitas Sousa Mendes Martins" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604351" ,
+		"email" : "pmendes@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1174" ,
+		"nome" : "Ana Paula Fernandes Machado" ,
+		"departamento" : "Departamento de Matemática para a Ciência e Tecnologia" ,
+		"telefone" : "253510428" ,
+		"email" : "ana.machado@mct.uminho.pt" ,
+		"url" : "http://www.mct.uminho.pt"
+	},
+	{
+		"id" : "1177" ,
+		"nome" : "Daniel Vitorino Castro Oliveira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253 510 247" ,
+		"email" : "danvco@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt/masonry"
+	},
+	{
+		"id" : "1178" ,
+		"nome" : "José António Purificação Martins" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510325" ,
+		"email" : "jamartins@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt/jam"
+	},
+	{
+		"id" : "1181" ,
+		"nome" : "António Manuel Silva Pina" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604475" ,
+		"email" : "pina@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~amp"
+	},
+	{
+		"id" : "1182" ,
+		"nome" : "José Manuel Tavares Vieira Cabral" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510377" ,
+		"email" : "cabral@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/~cabral"
+	},
+	{
+		"id" : "1183" ,
+		"nome" : "Maria Luísa Peixoto Magalhães Graça Branco Gouveia" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605218" ,
+		"email" : "luisamag@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "1184" ,
+		"nome" : "Isabel Cristina Costa Alves Ermida" ,
+		"departamento" : "Departamento de Estudos Ingleses e Norte Americanos" ,
+		"telefone" : "604180" ,
+		"email" : "iermida@ilch.uminho.pt" ,
+		"url" : "https://sites.google.com/site/deinailchport/Membros/isabel-ermida"
+	},
+	{
+		"id" : "1186" ,
+		"nome" : "Maria Teresa Torres Monteiro" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604747" ,
+		"email" : "tm@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1189" ,
+		"nome" : "Paula Margarida Vidigal Soares Teixeira Ferreira" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604055" ,
+		"email" : "pmf@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1190" ,
+		"nome" : "Luís Miguel Oliveira Sieuve Monteiro" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "253604374" ,
+		"email" : "monteiro@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1193" ,
+		"nome" : "Fernando Moura Duarte" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510326" ,
+		"email" : "fduarte@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "1198" ,
+		"nome" : "Carlos Alberto Simões Alves" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604035" ,
+		"email" : "casaix@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "1202" ,
+		"nome" : "Fernando José Fraga Azevedo" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253601246" ,
+		"email" : "fraga@ie.uminho.pt" ,
+		"url" : "http://www.degois.pt/visualizador/curriculum.jsp?key=2534154027031731"
+	},
+	{
+		"id" : "1203" ,
+		"nome" : "José Araújo Mendes" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510190" ,
+		"email" : "jose.mendes@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1205" ,
+		"nome" : "José António Brandão Soares Carvalho" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604268" ,
+		"email" : "jabrandao@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1208" ,
+		"nome" : "António José Meneses Osório" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253601203" ,
+		"email" : "ajosorio@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1211" ,
+		"nome" : "Fátima Maria Bezerra Barbosa" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604653" ,
+		"email" : "fbarbosa@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1226" ,
+		"nome" : "José Alberto Gomes Precioso" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604644" ,
+		"email" : "precioso@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1230" ,
+		"nome" : "António Pedro Garcia Valadares Souto" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510275" ,
+		"email" : "souto@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1233" ,
+		"nome" : "José Filipe Bizarro Meireles" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "517229" ,
+		"email" : "meireles@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1235" ,
+		"nome" : "Benilde Maria Nascimento Oliveira" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604510 ext.601922" ,
+		"email" : "benilde@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1240" ,
+		"nome" : "João Miguel Lobo Fernandes" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604454" ,
+		"email" : "jmf@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jmf"
+	},
+	{
+		"id" : "1241" ,
+		"nome" : "Delfim Fernandes Soares" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510252" ,
+		"email" : "dsoares@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1243" ,
+		"nome" : "António José Borba Ramires Fernandes" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604478" ,
+		"email" : "arf@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1249" ,
+		"nome" : "Alexandra Maria Lafaia Machado Abranches" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "605172" ,
+		"email" : "alexandra@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "1251" ,
+		"nome" : "Sofia Isabel Coelho Afonso" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "605170" ,
+		"email" : "safonso@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "1256" ,
+		"nome" : "Joana Luísa Ferreira Lourenço Cunha" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510295" ,
+		"email" : "jcunha@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1257" ,
+		"nome" : "José Henrique Serrano Santos Chaves" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "604265" ,
+		"email" : "jhchaves@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1261" ,
+		"nome" : "Paulo Jorge Figueiredo Martins" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510358" ,
+		"email" : "pmartins@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1262" ,
+		"nome" : "Pedro Miguel Gonzalez Abreu Ribeiro" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510313" ,
+		"email" : "pmgar@dsi.uminho.pt" ,
+		"url" : "http://piano.dsi.uminho.pt/~pmgar"
+	},
+	{
+		"id" : "1266" ,
+		"nome" : "José Manuel Henriques Telhada" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604754" ,
+		"email" : "telhada@dps.uminho.pt" ,
+		"url" : "pessoais.dps.uminho.pt/telhada/"
+	},
+	{
+		"id" : "1269" ,
+		"nome" : "Aires Gonçalves Esteves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510389" ,
+		"email" : "esteves@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1270" ,
+		"nome" : "António Silva Gonçalves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510190" ,
+		"email" : "" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1271" ,
+		"nome" : "Pedro Manuel Moreira Castro Mota" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510389" ,
+		"email" : "pedro.mota@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1272" ,
+		"nome" : "Maria Rosa Soares Pedrosa Cabecinhas" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "601753" ,
+		"email" : "cabecinhas@ics.uminho.pt" ,
+		"url" : "http://scholar.google.com/citations?user=Snc2IyYAAAAJ&hl=en"
+	},
+	{
+		"id" : "1280" ,
+		"nome" : "Luís António Carvalho Gachineiro Cunha" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604066" ,
+		"email" : "lcunha@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1282" ,
+		"nome" : "Maria Eduarda Bicudo Azeredo Keating" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "604198" ,
+		"email" : "mekeating@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "1286" ,
+		"nome" : "Alberto Filipe Ribeiro Abreu Araújo" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604260" ,
+		"email" : "afaraujo@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1289" ,
+		"nome" : "Moisés Adão Lemos Martins" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "604290" ,
+		"email" : "moisesm@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "1290" ,
+		"nome" : "Armando Rui Castro Mesquita Guimarães" ,
+		"departamento" : "Departamento de Pedagogia" ,
+		"telefone" : "253604261" ,
+		"email" : "aguimaraes@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1291" ,
+		"nome" : "Maria Conceição Pinto Antunes" ,
+		"departamento" : "Departamento de Teoria da Educação e Educação Artística e Física" ,
+		"telefone" : "253604655" ,
+		"email" : "mantunes@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1292" ,
+		"nome" : "Carlos Alberto Vilar Estêvão" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604276/253604279" ,
+		"email" : "cestevao@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1294" ,
+		"nome" : "Maria Aldina Bessa Ferreira Rodrigues Marques" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604192" ,
+		"email" : "mamarques@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1295" ,
+		"nome" : "José Moreira Silva" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604186" ,
+		"email" : "jmoreira@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1296" ,
+		"nome" : "Luísa Maria Barros Figueiredo Cruz" ,
+		"departamento" : "Departamento de Ciências de Educação da Criança" ,
+		"telefone" : "253601254" ,
+		"email" : "luisa_cruz@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "1297" ,
+		"nome" : "Maria Piedade Machado Ramos" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "510432" ,
+		"email" : "mpr@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1298" ,
+		"nome" : "Fernando Augusto Pinto Miranda" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "253604089" ,
+		"email" : "fmiranda@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1302" ,
+		"nome" : "Maria Graça Pinto Ribeiro Guedes" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510299" ,
+		"email" : "mgg@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1304" ,
+		"nome" : "Maria Emilia Feijão Queiroz Athayde" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604094" ,
+		"email" : "mefqa@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1305" ,
+		"nome" : "Artur Manuel Cavaco Paulo" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "253510271" ,
+		"email" : "artur@deb.uminho.pt" ,
+		"url" : "http://www.det.uminho.pt/acavaco/"
+	},
+	{
+		"id" : "1306" ,
+		"nome" : "Maria Fátima Cerqueira Martins Vieira" ,
+		"departamento" : "Departamento de Estudos Integrados de Literacia, Didáctica e Supervisão" ,
+		"telefone" : "253604642" ,
+		"email" : "fatima@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1307" ,
+		"nome" : "Anabela Carreira Mendes" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "253604308" ,
+		"email" : "amend@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "1308" ,
+		"nome" : "Ângela Rosa Pinho Costa Maia" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "253604611" ,
+		"email" : "angelam@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "1309" ,
+		"nome" : "Cândida Manuel Ribeiro Simões Lucas" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604313" ,
+		"email" : "clucas@bio.uminho.pt" ,
+		"url" : "http://cbma.bio.uminho.pt"
+	},
+	{
+		"id" : "1310" ,
+		"nome" : "Carlos Manuel Ferreira Cunha" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604179" ,
+		"email" : "carmel@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1313" ,
+		"nome" : "João Paulo Rodrigues Fernandes André" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "253604385" ,
+		"email" : "jandre@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1314" ,
+		"nome" : "Jorge Manuel Vieira Pamplona" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "604307" ,
+		"email" : "jopamp@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "1318" ,
+		"nome" : "Paulo José Brandão Barbosa Lourenço" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510209" ,
+		"email" : "pbl@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1319" ,
+		"nome" : "Maria Conceição Teixeira Varela" ,
+		"departamento" : "Departamento de Estudos Românicos" ,
+		"telefone" : "604195" ,
+		"email" : "mcvarela@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "1320" ,
+		"nome" : "Luís Manuel Jesus Cunha" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "605295" ,
+		"email" : "lmcunha@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt"
+	},
+	{
+		"id" : "1321" ,
+		"nome" : "Joel Augusto Barbosa Almeida Felizes" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604293" ,
+		"email" : "jbfelizes@ics.uminho.pt" ,
+		"url" : "http://www.sociologia.uminho.pt"
+	},
+	{
+		"id" : "1322" ,
+		"nome" : "Teresa Maria Sousa Araújo Pereira Mora" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "" ,
+		"email" : "tmora@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1323" ,
+		"nome" : "António Manuel Clemente Lázaro" ,
+		"departamento" : "Departamento de História" ,
+		"telefone" : "" ,
+		"email" : "amlazaro@ics.uminho.pt" ,
+		"url" : "http://www.hist.ics.uminho.pt"
+	},
+	{
+		"id" : "1325" ,
+		"nome" : "Jorge Manuel Ferreira Almeida Santos" ,
+		"departamento" : "Departamento de Psicologia Básica" ,
+		"telefone" : "253604247" ,
+		"email" : "jorge.a.santos@psi.uminho.pt" ,
+		"url" : "http://webs.psi.uminho.pt/lvp/LVP"
+	},
+	{
+		"id" : "1326" ,
+		"nome" : "Alexandre Jorge Guerreiro Pinheiro Rodrigues" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "253510313" ,
+		"email" : "alex.rodrigues@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "1327" ,
+		"nome" : "Maria Solange Pires Ferreira Rito Lima" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604436" ,
+		"email" : "solange@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1329" ,
+		"nome" : "Rui João Abrunhosa Carvalho Gonçalves" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "253604267" ,
+		"email" : "rabrunhosa@psi.uminho.pt" ,
+		"url" : "www.psi.uminho.pt"
+	},
+	{
+		"id" : "1330" ,
+		"nome" : "António Pedro Carvalho Chaves" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "253510345" ,
+		"email" : "pedro.chaves@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1332" ,
+		"nome" : "Alice Maria Esteves Dias" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604380" ,
+		"email" : "ad@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1335" ,
+		"nome" : "Carlos Manuel Gregório Santos Lima" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510373-604706" ,
+		"email" : "clima@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1337" ,
+		"nome" : "Joaquim José Santos Esteves Neves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "253510192" ,
+		"email" : "jeneves@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/~eneves"
+	},
+	{
+		"id" : "1338" ,
+		"nome" : "José Alberto Ribeiro Martins" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "605382" ,
+		"email" : "jmartins@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1339" ,
+		"nome" : "Maria Teresa Pitta Lacerda Arôso" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604064" ,
+		"email" : "tla@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1340" ,
+		"nome" : "Francisco José Machado Macedo" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604329" ,
+		"email" : "fmacedo@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1342" ,
+		"nome" : "Hernâni Varanda Gerós" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604048" ,
+		"email" : "geros@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1344" ,
+		"nome" : "Lúcia Maria Portela Lima Rodrigues" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604559" ,
+		"email" : "lrodrigues@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1345" ,
+		"nome" : "Anabela Simões Carvalho" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "604292" ,
+		"email" : "carvalho@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "1346" ,
+		"nome" : "António Armando Lima Sampaio Duarte" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253604728 - 517240" ,
+		"email" : "aduarte@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1348" ,
+		"nome" : "Fernando Jorge Castro Vieira Mendes" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510389" ,
+		"email" : "fmendes@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1351" ,
+		"nome" : "Isabel Maria Pires Belo" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "253604413" ,
+		"email" : "ibelo@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "1352" ,
+		"nome" : "Jorge Gomes Santos" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510276" ,
+		"email" : "jsantos@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1353" ,
+		"nome" : "José Miranda Sousa Maciel" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 584" ,
+		"email" : "jmaciel@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "1354" ,
+		"nome" : "Maria Céu Pinho Ferreira Pinto" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "604523" ,
+		"email" : "ceupinto@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap/cp/ceupinto"
+	},
+	{
+		"id" : "1355" ,
+		"nome" : "Orlando Alfred Arnold Grossegesse" ,
+		"departamento" : "Departamento de Estudos Germanísticos" ,
+		"telefone" : "604190" ,
+		"email" : "ogro@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/deg"
+	},
+	{
+		"id" : "1356" ,
+		"nome" : "Jorge Gustavo Pereira Bastos Rocha" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604457" ,
+		"email" : "jgr@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1357" ,
+		"nome" : "Maria Lurdes Antas Barros Caldeira Barroso" ,
+		"departamento" : "Departamento de Gestão e Administração Pública" ,
+		"telefone" : "253604510 ext.605523" ,
+		"email" : "milucha@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/gestao"
+	},
+	{
+		"id" : "1358" ,
+		"nome" : "Vítor Manuel Rodrigues Alves" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604484" ,
+		"email" : "valves@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~vma"
+	},
+	{
+		"id" : "1361" ,
+		"nome" : "Adriano Jorge Cardoso Moreira" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510305" ,
+		"email" : "adriano@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt/netshare/adriano"
+	},
+	{
+		"id" : "1362" ,
+		"nome" : "Paulo Sérgio Soares Almeida" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604451" ,
+		"email" : "psa@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1363" ,
+		"nome" : "José Luís Mota Pereira" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510315" ,
+		"email" : "jlmp@dsi.uminho.pt" ,
+		"url" : "http://piano.dsi.uminho.pt/~jlmp/"
+	},
+	{
+		"id" : "1364" ,
+		"nome" : "Jorge Manuel Silva Tavares Cruz" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510389" ,
+		"email" : "jcr3brg@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1365" ,
+		"nome" : "Jaime Francisco Cruz Fonseca" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510193" ,
+		"email" : "jaime@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1366" ,
+		"nome" : "Maria Manuela Marques Raposo" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604381" ,
+		"email" : "mfox@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1369" ,
+		"nome" : "Ricardo Pedro Lopes Martins Mendes Ribeiro" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253604335" ,
+		"email" : "ricardo@fisica.uminho.pt" ,
+		"url" : "http://hawk.fisica.uminho.pt"
+	},
+	{
+		"id" : "1371" ,
+		"nome" : "Isabel Maria Fonseca Rodrigues" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 584" ,
+		"email" : "isabelr@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "1375" ,
+		"nome" : "Carlos Alberto Baptista Sousa Pinto" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510310" ,
+		"email" : "csp@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "1378" ,
+		"nome" : "Paula Alexandra Correia Veloso Veiga Benesch" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 549" ,
+		"email" : "paulav@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "1381" ,
+		"nome" : "Filipe Samuel Correia Pereira Silva" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510254" ,
+		"email" : "fsamuel@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1384" ,
+		"nome" : "Esmeraldina Maria Costa Veloso" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604621" ,
+		"email" : "eveloso@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1395" ,
+		"nome" : "Luís Fernando Sousa Ferreira Silva" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510253" ,
+		"email" : "lffsilva@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1400" ,
+		"nome" : "Eugénio Manuel Faria Campos Ferreira" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604407" ,
+		"email" : "ecferreira@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt/ecferreira"
+	},
+	{
+		"id" : "1404" ,
+		"nome" : "Ana Cristina Silva Braga" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "253604748" ,
+		"email" : "acb@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt/pessoais/acb"
+	},
+	{
+		"id" : "1405" ,
+		"nome" : "Carlos Alberto Batista Silva" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510374 / 604706" ,
+		"email" : "csilva@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1406" ,
+		"nome" : "Fernando Carlos Cabrita Romero" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510352" ,
+		"email" : "fromero@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1407" ,
+		"nome" : "João Miguel Clemente Sena Esteves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510386" ,
+		"email" : "sena@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1408" ,
+		"nome" : "José Higino Gomes Correia" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510370-604708" ,
+		"email" : "higino.correia@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1411" ,
+		"nome" : "Mónica Frias Costa Paz Barroso" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "510353" ,
+		"email" : "mbarroso@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1414" ,
+		"nome" : "Leonor Maria Lima Torres" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253601200/253604240" ,
+		"email" : "leonort@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1434" ,
+		"nome" : "Miguel Ângelo Fernandes Carvalho" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "253510278" ,
+		"email" : "migcar@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1436" ,
+		"nome" : "João Carlos Ramos Nunes Marcos" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604054" ,
+		"email" : "jcmarcos@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1437" ,
+		"nome" : "Manuel Maria Melo Alte Veiga" ,
+		"departamento" : "Departamento de Pedagogia" ,
+		"telefone" : "253604261" ,
+		"email" : "mveiga@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1445" ,
+		"nome" : "Paulo Francisco Silva Cardoso" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510186" ,
+		"email" : "paulo.cardoso@dei.uminho.pt" ,
+		"url" : "http://esrg.dei.uminho.pt"
+	},
+	{
+		"id" : "1450" ,
+		"nome" : "Graça Maria Barbosa Soares" ,
+		"departamento" : "Departamento de Engenharia Têxtil" ,
+		"telefone" : "510296" ,
+		"email" : "gmbs@det.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1451" ,
+		"nome" : "Maria Graça Pereira Alves" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "604228" ,
+		"email" : "gracep@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "1452" ,
+		"nome" : "Ana Maria Carneiro Costa Silva" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253604608" ,
+		"email" : "anasilva@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1453" ,
+		"nome" : "José Ferreira Alves" ,
+		"departamento" : "Departamento de Psicologia Básica" ,
+		"telefone" : "253604233" ,
+		"email" : "alves@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "1454" ,
+		"nome" : "José Augusto Branco Palhares" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604623" ,
+		"email" : "jpalhares@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1455" ,
+		"nome" : "João Miguel Amorim Novais Costa Nóbrega" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510326" ,
+		"email" : "mnobrega@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "1457" ,
+		"nome" : "Maria Helena Sousa Gonçalves" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605218" ,
+		"email" : "hgoncalves@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/dcc"
+	},
+	{
+		"id" : "1460" ,
+		"nome" : "Angelina Silva Peixoto Ferreira Rodrigues" ,
+		"departamento" : "Departamento de Metodologias da Educação" ,
+		"telefone" : "604268" ,
+		"email" : "arodrigues@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1461" ,
+		"nome" : "António Eugénio Correia Braga Peixoto" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "601621" ,
+		"email" : "aepeixoto@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "1462" ,
+		"nome" : "Maria Angélica Abreu Lima Cruz" ,
+		"departamento" : "Departamento de Expressões Artísticas e Educação Física" ,
+		"telefone" : "601226" ,
+		"email" : "angelica@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "1465" ,
+		"nome" : "Maria Manuela Sansonetty Gonçalves Corte-Real" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604314" ,
+		"email" : "mcortereal@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1466" ,
+		"nome" : "Manuel José Magalhães Gomes Mota" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "602191" ,
+		"email" : "mmota@deb.uminho.pt" ,
+		"url" : ""
+	},
+	{
+		"id" : "1467" ,
+		"nome" : "Maria Conceição Abreu Ramalho Almeida" ,
+		"departamento" : "Departamento de Metodologias da Educação" ,
+		"telefone" : "253604271" ,
+		"email" : "mcara@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1469" ,
+		"nome" : "Ana Maria Fernandes Pinho Lopes Dias" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604333" ,
+		"email" : "apinho@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1474" ,
+		"nome" : "Ana Maria Silva Ribeiro" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604200" ,
+		"email" : "anar@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1475" ,
+		"nome" : "Maria Emília Pacheco Lopes Pereira" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "604186" ,
+		"email" : "memilia@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1476" ,
+		"nome" : "Luís Manuel Gomes Vieira" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604064" ,
+		"email" : "lvieira@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1478" ,
+		"nome" : "Anabela Gomes Rolo" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604065" ,
+		"email" : "arolo@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1479" ,
+		"nome" : "Francisco José Alves Coelho Veiga" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604534" ,
+		"email" : "fjveiga@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia/fjveiga"
+	},
+	{
+		"id" : "1480" ,
+		"nome" : "Ana Vera Alves Machado Nóbrega" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510327" ,
+		"email" : "avm@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "1481" ,
+		"nome" : "Ana Lúcia Carmo Almeida Amaral Curado" ,
+		"departamento" : "Departamento de Estudos Portugueses" ,
+		"telefone" : "253601633" ,
+		"email" : "alcurado@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/dep"
+	},
+	{
+		"id" : "1484" ,
+		"nome" : "Natália Fernandes" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253 601 346" ,
+		"email" : "natfs@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1485" ,
+		"nome" : "Sara Jesus Gomes Pereira" ,
+		"departamento" : "Departamento de Ciências da Comunicação" ,
+		"telefone" : "605291" ,
+		"email" : "sarapereira@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt"
+	},
+	{
+		"id" : "1489" ,
+		"nome" : "Ermelinda Amélia Veloso Costa Lopes Fernandes Silva" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 547" ,
+		"email" : "elopes@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "1491" ,
+		"nome" : "Catarina Isabel Silva Santos Serra" ,
+		"departamento" : "Departamento de Ciências Jurídico-Privatísticas" ,
+		"telefone" : "253 601 823" ,
+		"email" : "catarinass@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "1493" ,
+		"nome" : "Sandra Maria Fernandes Carvalho" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "253510470" ,
+		"email" : "sandra.carvalho@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1495" ,
+		"nome" : "Maria Céu Taveira Castro Silva Brás Cunha" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "604671" ,
+		"email" : "ceuta@psi.uminho.pt" ,
+		"url" : "http://www.psi.uminho.pt"
+	},
+	{
+		"id" : "1496" ,
+		"nome" : "José Maria Marques Oliveira" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "253604411" ,
+		"email" : "jmoliveira@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	},
+	{
+		"id" : "1498" ,
+		"nome" : "Jorge Manuel Fernandes Soares" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1502" ,
+		"nome" : "Júlio Fernando Ferreira Silva" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "517246" ,
+		"email" : "juliofs@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1504" ,
+		"nome" : "Sílvia Manuela Monteiro Alves Pereira Lima" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "253604375" ,
+		"email" : "silviap@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1505" ,
+		"nome" : "Gaspar José Brandão Queirós Azevedo Machado" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "510445/00" ,
+		"email" : "gjm@math.uminho.pt" ,
+		"url" : "http://www.math.uminho.pt"
+	},
+	{
+		"id" : "1507" ,
+		"nome" : "Bernhard Josef Sylla" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "605186" ,
+		"email" : "bernhard@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt/departamentos"
+	},
+	{
+		"id" : "1508" ,
+		"nome" : "Alberto Carlos Pires Dias" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "601510" ,
+		"email" : "acpdias@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1509" ,
+		"nome" : "Alberto Silva Lima" ,
+		"departamento" : "Departamento de Ciências da Terra" ,
+		"telefone" : "253604035" ,
+		"email" : "aslima@dct.uminho.pt" ,
+		"url" : "http://www.dct.uminho.pt"
+	},
+	{
+		"id" : "1513" ,
+		"nome" : "José Carlos Leite Ramalho" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604479" ,
+		"email" : "jcr@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~jcr"
+	},
+	{
+		"id" : "1514" ,
+		"nome" : "José Carlos Soares Espírito Santo" ,
+		"departamento" : "Departamento de Matemática e Aplicações" ,
+		"telefone" : "604362" ,
+		"email" : "jes@math.uminho.pt" ,
+		"url" : "http://w3.math.uminho.pt/~jes"
+	},
+	{
+		"id" : "1516" ,
+		"nome" : "José Joaquim Carneiro Barbosa" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510259" ,
+		"email" : "kim@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1519" ,
+		"nome" : "Virgínio Isidro Martins Sá" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253604670" ,
+		"email" : "virsa@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1520" ,
+		"nome" : "Maria Cândida Lobo Guerra Vilarinho" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510250" ,
+		"email" : "candida@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1523" ,
+		"nome" : "Raul Manuel Esteves Sousa Fangueiro" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "510204" ,
+		"email" : "rfangueiro@civil.uminho.pt" ,
+		"url" : "http://sarmento.eng.uminho.pt/~det"
+	},
+	{
+		"id" : "1524" ,
+		"nome" : "Rui Manuel Peixoto Tavares" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "604047" ,
+		"email" : "tavares@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1525" ,
+		"nome" : "Ana Amélia Costa Conceição Amorim Soares Carvalho" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : " 253604620" ,
+		"email" : "aac@ie.uminho.pt" ,
+		"url" : "http://webs.ie.uminho.pt/aac"
+	},
+	{
+		"id" : "1526" ,
+		"nome" : "Maria João Silva Ferreira Gomes" ,
+		"departamento" : "Departamento de Estudos Curriculares e Tecnologia Educativa" ,
+		"telefone" : "253604619" ,
+		"email" : "mjgomes@ie.uminho.pt" ,
+		"url" : "https://mjgomes.wordpress.com/"
+	},
+	{
+		"id" : "1531" ,
+		"nome" : "Carlos Gil Correia Veloso Veiga" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604218" ,
+		"email" : "cveiga@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1532" ,
+		"nome" : "Ana Paula Pereira Marques" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "253604694" ,
+		"email" : "amarques@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1534" ,
+		"nome" : "Maria Teresa Pereira Coelho Mendonça Mcintyre" ,
+		"departamento" : "Departamento de Psicologia" ,
+		"telefone" : "604254" ,
+		"email" : "mcintyre@iep.uminho.pt" ,
+		"url" : "http://www.iep.uminho.pt"
+	},
+	{
+		"id" : "1535" ,
+		"nome" : "Maria Manuela Silva Pires Silva" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604058" ,
+		"email" : "nini@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1536" ,
+		"nome" : "Rui Luís Gonçalves Reis" ,
+		"departamento" : "Vice-Reitor - RLR" ,
+		"telefone" : "253601050; 253510900" ,
+		"email" : "sec-rlreis@reitoria.uminho.pt" ,
+		"url" : "http://www.uminho.pt / http://www.3bs.uminho.pt"
+	},
+	{
+		"id" : "1538" ,
+		"nome" : "Mário João Ferreira Monte" ,
+		"departamento" : "Departamento de Ciências Jurídicas Públicas" ,
+		"telefone" : "253601860" ,
+		"email" : "monte@direito.uminho.pt" ,
+		"url" : "http://www.direito.uminho.pt"
+	},
+	{
+		"id" : "1539" ,
+		"nome" : "Paula Cristina Marques Martins" ,
+		"departamento" : "Departamento de Psicologia Aplicada" ,
+		"telefone" : "253601118" ,
+		"email" : "sec-pcmartins@reitoria.uminho.pt" ,
+		"url" : ""
+	},
+	{
+		"id" : "1541" ,
+		"nome" : "Bruno Alexandre Fernandes Dias" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604436" ,
+		"email" : "bruno.dias@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1542" ,
+		"nome" : "Paulo Manuel Martins Carvalho" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604432/6" ,
+		"email" : "pmc@di.uminho.pt" ,
+		"url" : "http://marco.uminho.pt/~paulo"
+	},
+	{
+		"id" : "1543" ,
+		"nome" : "João Nuno Bastos Oliveira" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510310" ,
+		"email" : "jnuno@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "1546" ,
+		"nome" : "Vitor Francisco Mendes Freitas Gomes Fonte" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604449" ,
+		"email" : "vff@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1548" ,
+		"nome" : "Luís Miguel Silva Dias" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604764" ,
+		"email" : "lsd@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1549" ,
+		"nome" : "Maribel Yasmina Campos Alves Santos" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "253510308" ,
+		"email" : "maribel@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt/~maribel"
+	},
+	{
+		"id" : "1550" ,
+		"nome" : "João Alexandre Baptista Vieira Saraiva" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604433" ,
+		"email" : "jas@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1551" ,
+		"nome" : "António Manuel Nestor Ribeiro" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604478" ,
+		"email" : "anr@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt"
+	},
+	{
+		"id" : "1553" ,
+		"nome" : "Manuel João Sepúlveda Mesquita Freitas" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510383" ,
+		"email" : "mjs@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/~sepulveda"
+	},
+	{
+		"id" : "1556" ,
+		"nome" : "Manuel Eduardo Cardoso Ferreira" ,
+		"departamento" : "Departamento de Engenharia Mecânica" ,
+		"telefone" : "510239" ,
+		"email" : "ef@dem.uminho.pt" ,
+		"url" : "http://www.dem.uminho.pt"
+	},
+	{
+		"id" : "1562" ,
+		"nome" : "Sun Lam" ,
+		"departamento" : "Departamento de Estudos Asiáticos" ,
+		"telefone" : "604183" ,
+		"email" : "slc@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "1564" ,
+		"nome" : "António Joaquim Brito Figueiroa Jardim Costa" ,
+		"departamento" : "Departamento de Sociologia" ,
+		"telefone" : "604218" ,
+		"email" : "ajbfjc@ics.uminho.pt" ,
+		"url" : "http://www.ics.uminho.pt/sociologia/"
+	},
+	{
+		"id" : "1566" ,
+		"nome" : "Luís Miguel Valente Gonçalves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510379" ,
+		"email" : "lgoncalves@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt/pessoas/lgoncalves/"
+	},
+	{
+		"id" : "1573" ,
+		"nome" : "César Analide Freitas Silva Costa Rodrigues" ,
+		"departamento" : "Departamento de Informática" ,
+		"telefone" : "604437" ,
+		"email" : "analide@di.uminho.pt" ,
+		"url" : "http://www.di.uminho.pt/~analide"
+	},
+	{
+		"id" : "1575" ,
+		"nome" : "Maria Gabriela Coutinho Soares Lema Botelho" ,
+		"departamento" : "Departamento de Química" ,
+		"telefone" : "604058" ,
+		"email" : "gbotelho@quimica.uminho.pt" ,
+		"url" : "http://www.quimica.uminho.pt"
+	},
+	{
+		"id" : "1579" ,
+		"nome" : "Michael Scott Belsley" ,
+		"departamento" : "Departamento de Física" ,
+		"telefone" : "604339" ,
+		"email" : "belsley@fisica.uminho.pt" ,
+		"url" : "http://www.fisica.uminho.pt"
+	},
+	{
+		"id" : "1583" ,
+		"nome" : "Eusébio Manuel Pinto Nunes" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604755" ,
+		"email" : "enunes@dps.uminho.pt" ,
+		"url" : "http://pessoais.dps.uminho.pt/enunes"
+	},
+	{
+		"id" : "1584" ,
+		"nome" : "Maria Teresa Correia Guedes Lino Neto" ,
+		"departamento" : "Departamento de Biologia" ,
+		"telefone" : "601544" ,
+		"email" : "tlneto@bio.uminho.pt" ,
+		"url" : "http://www.bio.uminho.pt"
+	},
+	{
+		"id" : "1589" ,
+		"nome" : "Vítor Júlio Silva Sá" ,
+		"departamento" : "Departamento de Sistemas de Informação" ,
+		"telefone" : "510314" ,
+		"email" : "vjs@dsi.uminho.pt" ,
+		"url" : "http://www.dsi.uminho.pt"
+	},
+	{
+		"id" : "1590" ,
+		"nome" : "Jorge Filipe Maia Oliveira Ferreira" ,
+		"departamento" : "Departamento de Engenharia Civil" ,
+		"telefone" : "253510200" ,
+		"email" : "filipeferreira@civil.uminho.pt" ,
+		"url" : "http://www.civil.uminho.pt"
+	},
+	{
+		"id" : "1602" ,
+		"nome" : "Custódio Macedo Lima" ,
+		"departamento" : "Departamento de Ciência Política e Relações Internacionais" ,
+		"telefone" : "605527" ,
+		"email" : "custodiol@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/riap"
+	},
+	{
+		"id" : "1606" ,
+		"nome" : "Humberto António Ferreira Carlos" ,
+		"departamento" : "Departamento de Economia" ,
+		"telefone" : "253 604 584" ,
+		"email" : "humbertoafc@eeg.uminho.pt" ,
+		"url" : "http://www.eeg.uminho.pt/economia"
+	},
+	{
+		"id" : "1615" ,
+		"nome" : "João Manuel Couto Neves" ,
+		"departamento" : "Departamento de Electrónica Industrial" ,
+		"telefone" : "510389" ,
+		"email" : "joao.neves@dei.uminho.pt" ,
+		"url" : "http://www.dei.uminho.pt"
+	},
+	{
+		"id" : "1618" ,
+		"nome" : "José António Vasconcelos Oliveira" ,
+		"departamento" : "Departamento de Produção e Sistemas" ,
+		"telefone" : "604763" ,
+		"email" : "zan@dps.uminho.pt" ,
+		"url" : "http://www.dps.uminho.pt"
+	},
+	{
+		"id" : "1621" ,
+		"nome" : "Maria José Alves Silva Machado" ,
+		"departamento" : "Departamento de Ciências de Educação da Criança" ,
+		"telefone" : "602204" ,
+		"email" : "mjm@iec.uminho.pt" ,
+		"url" : "http://www.iec.uminho.pt"
+	},
+	{
+		"id" : "1624" ,
+		"nome" : "Fernando Ilídio Silva Ferreira" ,
+		"departamento" : "Departamento de Ciências Sociais da Educação" ,
+		"telefone" : "253601204" ,
+		"email" : "filidio@ie.uminho.pt" ,
+		"url" : "http://www.ie.uminho.pt"
+	},
+	{
+		"id" : "1628" ,
+		"nome" : "Fernando Augusto Machado" ,
+		"departamento" : "Departamento de Filosofia e Cultura" ,
+		"telefone" : "604175" ,
+		"email" : "fmachado@ilch.uminho.pt" ,
+		"url" : "http://www.ilch.uminho.pt"
+	},
+	{
+		"id" : "1633" ,
+		"nome" : "Maria Clara Dantas Cramez" ,
+		"departamento" : "Departamento de Engenharia de Polímeros" ,
+		"telefone" : "510333" ,
+		"email" : "clara@dep.uminho.pt" ,
+		"url" : "http://www.dep.uminho.pt"
+	},
+	{
+		"id" : "1635" ,
+		"nome" : "João Monteiro Peixoto" ,
+		"departamento" : "Departamento de Engenharia Biológica" ,
+		"telefone" : "604411" ,
+		"email" : "jmp@deb.uminho.pt" ,
+		"url" : "http://www.deb.uminho.pt"
+	}
+]
