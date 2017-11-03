@@ -7,19 +7,21 @@
       output = "";
       searchField = void 0;
       searchField = $('#jsonSearch').val();
-      //tokens = searchField.split(" ");
-      
       myExp = new RegExp(searchField, 'i');
       count = 1;
       $.getJSON('data/docentes.json', function(data) {
         $.each(data, function(key, val) {
           var showName = true
           var showMail = true
+          var showTelefone = true;
+          var showDepartamento = true;
           searchField.split(" ").forEach(function(x) {
             showName = showName && (val.nome.search(new RegExp(x, 'i'))!=-1);
             showMail = showMail && (val.email.search(new RegExp(x, 'i'))!=-1);
+            showTelefone = showTelefone && (val.telefone.search(new RegExp(x, 'i'))!=-1);
+            showDepartamento = showDepartamento && (val.departamento.search(new RegExp(x, 'i'))!=-1);
           });
-          if (showName || showMail) {
+          if (showName || showMail || showTelefone || showDepartamento) {
             output += '<div class="col s12 result card-panel"><div class="col s12"><li class="searchLi light-blue-text"><p>Nome: ' + val.nome + '</p><p>Website: <a href="' + val.url + '">'+val.url+'</a></p><p>Departamento: ' + val.departamento + '</p><p>Telefone: '+ val.telefone + '</p><p>Email: ' + val.email +'</p></li></div></div>';
             
             count++;
