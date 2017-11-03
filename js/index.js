@@ -22,7 +22,7 @@
             showDepartamento = showDepartamento && (val.departamento.search(new RegExp(x, 'i'))!=-1);
           });
           if (showName || showMail || showTelefone || showDepartamento) {
-            output += '<div class="col s12 result card-panel"><div class="col s12"><li class="searchLi light-blue-text"><p>Nome: ' + val.nome + '</p><p>Website: <a href="' + val.url + '">'+val.url+'</a></p><p>Departamento: ' + val.departamento + '</p><p>Telefone: '+ val.telefone + '</p><p>Email: ' + val.email +'</p></li></div></div>';
+            output += '<div class="col s12 result card-panel"><div class="col s12"><li class="searchLi" style="#83151D"><p>Nome: ' + val.nome + '</p><p>Website: <a href="' + val.url + '">'+val.url+'</a></p><p>Departamento: ' + val.departamento + '</p><p>Telefone: '+ val.telefone + '</p><p>Email: ' + val.email +'</p></li></div></div>';
             
             count++;
           }
